@@ -73,6 +73,7 @@
 .upcoming-matches-right {
   flex: 1;
   display: grid;
+  gap: 17px;
   grid-template-columns: repeat(3, 1fr);
 }
 
