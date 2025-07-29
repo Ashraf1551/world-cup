@@ -72,6 +72,8 @@
 
 .upcoming-matches-right {
   flex: 1;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .upcoming-matches-right .card {
